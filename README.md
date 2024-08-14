@@ -1,5 +1,6 @@
 # Nerea Menor
-![Your Name](images/your-photo.jpg)
+<img src="images/me_grey.png" alt="Your Name" width="200"/>
+
 **Journalist & Marketing Manager with hands-on experience as a Marketing Analyst.**  
 **Recent Data Analyst graduate.**  
 *Proficient in:* Excel, Tableau, SQL, Python & Data Ethics.
