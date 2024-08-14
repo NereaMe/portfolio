@@ -1,20 +1,31 @@
 # Nerea Menor
+
 <img src="images/me_grey.png" alt="Your Name" width="200"/>
 
 **Journalist & Marketing Manager with hands-on experience as a Marketing Analyst.**  
 **Recent Data Analyst graduate.**  
 *Proficient in:* Excel, Tableau, SQL, Python & Data Ethics.
+
 [Connect with me on LinkedIn](https://www.linkedin.com/in/nerea-menor/)  
+[Email Me](mailto:nereamenor@gmail.com)  
 
 ---
 
 ## Table of Contents
 
+- [Professional Summary](#professional-summary)
 - [My Projects](#my-projects)
 - [CV](#cv)
   - [Work Experience](#work-experience)
   - [Skills & Tools](#skills--tools)
   - [Education](#education)
+
+---
+
+## Professional Summary
+
+Experienced journalist and marketing manager with hands-on experience as a marketing analyst, now turned data analyst. Adept at leveraging storytelling and strategic communication to boost engagement and campaign effectiveness. Combines journalistic integrity, marketing expertise, and analytical skills to extract actionable insights from complex datasets and craft compelling narratives. Proven track record in coordinating editorial workflows and managing multifunctional teams for seamless project execution and collaboration.
+
 ---
 
 ## My Projects
@@ -23,14 +34,14 @@ Here are some of the projects I've worked on:
 
 | Project Name | Description | Skills / Tools / Procedures |
 |--------------|-------------|-----------------------------|
-| [FILM STREAMING - SQL](https://github.com/NereaMe/launchstrategy_SQL) | Launch of a new online video service. I helped with the launch to stay competitive by processing data and addressing business queries, aimed at understanding business trends and customer behavior to improve overall efficiency. | Relational databases, SQL, Database querying, Filtering, Cleaning and summarizing, Joining tables, Subqueries, Common table expression |
-| [Ecommerce Python](https://github.com/NereaMe/Ecommerce_python/) | Marketing strategy for an online grocery store, Instacart. I performed an initial data and exploratory analysis to derive insights and suggest strategies for better segmentation. | Python, Data wrangling, Data merging, Deriving variables, Grouping data, Aggregating data, Reporting in Excel, Population flows |
-| [HAPPINESS SCORE - PYTHON](https://github.com/NereaMe/HappinessScore_python) | Exploratory visual analysis in Python. The report examines happiness indicators to inform policy-making decisions using Python for analysis and Tableau for visualizations. | Python, Exploratory analysis (visualizations), Geospatial analysis (shapefile), Regression analysis, Cluster analysis, Time-series analysis, Analysis narrative |
-| [HEALTH](https://github.com/NereaMe/health_tableau) | Planning for influenza season for a medical staffing agency. The project examined trends in influenza to help proactively plan staffing needs across the country. | Excel, Translating business requirements, Data cleaning, Data integration, Data transformation, Statistical hypothesis testing, Visual analysis, Forecasting, Storytelling in Tableau, Presenting results |
+| [FILM STREAMING - SQL](https://github.com/NereaMe/launchstrategy_SQL) | ![Film Streaming](images/film_streaming.png) Launch of a new online video service. I helped with the launch to stay competitive by processing data and addressing business queries, aimed to understand business trends and customer behavior to improve overall efficiency. | Relational databases, SQL, Database querying, Filtering, Cleaning and summarizing, Joining tables, Subqueries, Common table expression |
+| [Ecommerce Python](https://github.com/NereaMe/Ecommerce_python/) | ![Ecommerce Python](images/ecommerce_python.png) Marketing strategy for an online grocery store, Instacart. I performed an initial data and exploratory analysis to derive insights and suggest strategies for better segmentation. | Python, Data wrangling, Data merging, Deriving variables, Grouping data, Aggregating data, Reporting in Excel, Population flows |
+| [HAPPINESS SCORE - PYTHON](https://github.com/NereaMe/HappinessScore_python) | ![Happiness Score](images/happiness_score.png) Exploratory visual analysis in Python. The report examines happiness indicators to inform policy-making decisions using Python for analysis and Tableau for visualizations. | Python, Exploratory analysis (visualizations), Geospatial analysis (shapefile), Regression analysis, Cluster analysis, Time-series analysis, Analysis narrative |
+| [HEALTH](https://github.com/NereaMe/health_tableau) | ![Health](images/health.png) Planning for influenza season for a medical staffing agency. The project examined trends in influenza to help proactively plan staffing needs across the country. | Excel, Translating business requirements, Data cleaning, Data integration, Data transformation, Statistical hypothesis testing, Visual analysis, Forecasting, Storytelling in Tableau, Presenting results |
 
 ---
 
-Feel free to explore my [repositories](https://github.com/NereaMe) to see more of my work.
+## Feel free to explore my [repositories](https://github.com/NereaMe) to see more of my work.
 
 ---
 
@@ -84,6 +95,7 @@ Feel free to explore my [repositories](https://github.com/NereaMe) to see more o
 - **KPIs & Agile Methodology**
 
 ### Education
+
 **Data Analytics Program**  
 *775 UE*  
 - Comprehensive program focusing on data analysis and its applications.
@@ -95,4 +107,3 @@ Feel free to explore my [repositories](https://github.com/NereaMe) to see more o
 **Certification in Teaching Spanish Language**  
 *Institution Name* | *Location* | *Year*  
 - Certification focused on teaching Spanish, enhancing language and educational skills.
-
