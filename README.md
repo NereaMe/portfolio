@@ -52,7 +52,7 @@
 <body>
     <h1>Nerea Menor's Portfolio</h1>
     <img src="https://your-profile-picture-url-here.jpg" alt="Profile Picture">
-    
+
     <h2>Table of Contents</h2>
     <ul>
         <li><a href="#journalism">Writings</a></li>
@@ -180,5 +180,4 @@
             <td><a href="https://github.com/NereaMe/HappinessScore_python">HAPPINESS SCORE - PYTHON</a></td>
             <td>Exploratory visual analysis in Python.</td>
             <td>Geospatial analysis, regression analysis.</td>
-            <td><a href="https://github.com/NereaMe/HappinessScore_python"><img src="images/3-happiness_score_python.PNG" alt="Happiness Score" width="150"/></a></td>
-        </tr>
+            <td><a href="https://github.com/NereaMe/HappinessScore_python
