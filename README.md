@@ -41,8 +41,7 @@
     Opera critique
   - **[“Hemos pasado de una ola en la que podíamos aspirar a algo mejor a tenernos que enfocar solo en sobrevivir”](https://www.pikaramagazine.com/2024/10/hemos-pasado-de-una-ola-en-la-que-podiamos-aspirar-a-algo-mejor-a-tenernos-que-enfocar-solo-en-sobrevivir/)**  
     Examining current gender issues in Argentina for Pikara Magazine.
-    - **[Critical Art as a Means of Emancipation at Villa Schöningen
-](https://www.vocidellopera.com/single-post/villa-schoeningen)**  
+    - **[Critical Art as a Means of Emancipation at Villa Schöningen](https://www.vocidellopera.com/single-post/villa-schoeningen)**  
 Art critics
 
 
