@@ -20,7 +20,7 @@
   - [Journalism](#journalism)
   - [Localized & Original Content](#localized--original-content)
 - [Data Analysis projects](#my-projects)
-- [UX Research](#ux-research-portfolio)
+- [UX Research & Writing](#ux-research-portfolio)
 - [CV](#cv)
 
 ---
@@ -81,7 +81,7 @@ Here are some of the data analysis projects I’ve worked on:
 
 ---
 
-## UX Research
+## UX Research & Writing
 
 Check out my UX portfolio to see design case studies and projects focused on user experience:
 
