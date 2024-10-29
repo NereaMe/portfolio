@@ -32,12 +32,13 @@
 | [Andy Warhol, como nunca lo habías visto](https://www-elconfidencial-com.translate.goog/el-grito/2024-08-24/andy-warhol-expo-berlin_3947800/?_x_tr_sl=auto&_x_tr_tl=es&_x_tr_hl=es) | Showcasing Warhol's unique perspective for El Confidencial's art magazine. | Spanish |
 
 <details>
+<details>
 <summary>More Journalism Projects</summary>
 
 | Project Name | Description | Language | Link |
 |--------------|-------------|----------|------|
-| **New Insights on Modern Art** | A dive into the latest trends in modern art and their societal implications. | English | [Read Article](#) |
-| **Women in Media** | An exploration of the challenges and triumphs of women in the media landscape. | English | [Read Article](#) |
+| **“Hemos pasado de una ola en la que podíamos aspirar a algo mejor a tenernos que enfocar solo en sobrevivir”** | Examining current gender issues in Argentina for Pikara Magazine. | Spanish | [Read Article](https://www.pikaramagazine.com/2024/10/hemos-pasado-de-una-ola-en-la-que-podiamos-aspirar-a-algo-mejor-a-tenernos-que-enfocar-solo-en-sobrevivir/) |
+| **"Lady Macbeth of Mtsensk" floods the Liceu in Barcelona for the Season Opening** | Opera critique for Voci dell'Opera. | English | [Read Article](https://www.vocidellopera.com/single-post/lady-macbeth-of-mtsensk) |
 
 </details>
 
