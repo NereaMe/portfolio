@@ -84,7 +84,7 @@ Here are some of the data analysis projects I’ve worked on:
 
 | Project Name | Description |
 |--------------|-------------|
-| [View UX Portfolio](https://www.canva.com/design/DAFVz66Wvtg/xp0gp4pF0PE-ZzVW0PLRKQ/edit) | Explore design case studies and projects focused on user experience. |
+| [View UX Portfolio](https://www.canva.com/design/DAFVz66Wvtg/xp0gp4pF0PE-ZzVW0PLRKQ/view) | Explore design case studies and projects focused on user experience. |
 
 ---
 
