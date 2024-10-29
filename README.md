@@ -76,10 +76,6 @@ Here are some of the data analysis projects I’ve worked on:
 
 ---
 
-## Feel free to explore my [repositories](https://github.com/NereaMe) to see more of my work.
-
----
-
 ## UX Research & Writing
 
 Check out my UX portfolio to see design case studies and projects focused on user experience:
