@@ -93,9 +93,6 @@ Here are some of the data analysis projects I’ve worked on:
 ### Professional Summary
 Experienced journalist and marketing manager with hands-on experience as a marketing analyst, now turned data analyst. Adept at leveraging storytelling and strategic communication to boost engagement and campaign effectiveness.
 
-### Work Experience
-*(Followed by a table or bulleted list with roles and achievements)*
-
 ### Skills & Tools
 - **Design**: Figma, Canva, InDesign, HTML
 - **Team Management**: Editorial/Cross-functional
@@ -105,6 +102,41 @@ Experienced journalist and marketing manager with hands-on experience as a marke
 - **Product Launch/Rebranding**
 - **Author**: Narrative - Poetry (published)
 - **KPIs & Agile Methodology**
+
+### Work Experience
+**Journalist and Author**  
+*Various Locations* | *2011 - 2024*  
+- Covered complex topics such as art, human rights, and gender issues in diverse cultural contexts. Reported from Buenos Aires, Kathmandu, Bangkok, and Berlin, conducting in-depth interviews, research, and thoughtful analysis to produce stories that raised awareness and stimulated debate on critical social issues.
+
+**CRM Manager**  
+*Ladenzeile GmbH* | *Berlin* | *2021 - 2023*  
+- Managed cross-departmental projects to optimize engagement and conversion.
+- Led A/B testing to increase user satisfaction and brand awareness.
+- Coordinated B2B/B2C email marketing rebranding across 13 markets, briefing editors and designers for high-quality creative assets, resulting in an increased subscriber base and conversion.
+- Conducted comprehensive analysis, created visualizations, and presented findings to identify new strategic opportunities and recommend actions resulting in improved client satisfaction.
+  
+**SEO Manager, PR and Data**  
+*Visual Meta GmbH* | *Berlin* | *2018 - 2021*  
+- Coordinated cross-departmental country team's organic marketing efforts, resulting in increased profitability within 6 months.
+- Conducted market research and analysis, creating visual reports to improve conversion and search engine positioning.
+- Optimized internal algorithms and crawlability, leading to improved conversion rates, user satisfaction, and page speed.
+- Enhanced content placement through outreach and PR, increasing brand awareness.
+
+**Editor and UX Researcher**  
+*Visual Meta GmbH* | *Berlin* | *2015 - 2017*  
+- Managed end-to-end UX research projects, integrating usability testing and design thinking principles to enhance satisfaction and generate new business ideas.
+- Developed social media and onsite content strategies that improved visibility and trustworthiness.
+- Executed writing and translation for newsletters, microcopy, SEO texts, and product descriptions, enhancing engagement and boosting SEO performance.
+
+**Content Strategist**  
+*Chal-Tec GmbH · Arkive Studio · Iventic GmbH* | *Berlin* | *2016 - 2017*  
+- Strengthened brand and engagement through market research and strategy development.
+- Conducted content creation, translation, and optimization for social media, magazines, and blogs.
+
+**Content Manager**  
+*Homify GmbH* | *Berlin* | *2014 - 2016*  
+- Created and managed editorial teams, overseeing hiring, billing, editing, and planning. Grew to 13 editors producing daily/weekly publications.
+- Coordinated and authored content for social media and media outlets, contributing to consistent and stable user growth.
 
 ### Education
 - Data Analytics Program, 775 UE
