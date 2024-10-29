@@ -36,11 +36,15 @@
 | [Andy Warhol, como nunca lo habías visto](https://www-elconfidencial-com.translate.goog/el-grito/2024-08-24/andy-warhol-expo-berlin_3947800/?_x_tr_sl=auto&_x_tr_tl=es&_x_tr_hl=es) | Showcasing Warhol's unique perspective for El Confidencial's art magazine. | Spanish |
 
 <details>
-<summary>More Journalism Projects</summary>
+  <summary>More Journalism Projects</summary>
 
-- [“Hemos pasado de una ola en la que podíamos aspirar a algo mejor a tenernos que enfocar solo en sobrevivir”](https://www.pikaramagazine.com/2024/10/hemos-pasado-de-una-ola-en-la-que-podiamos-aspirar-a-algo-mejor-a-tenernos-que-enfocar-solo-en-sobrevivir/): Examining current gender issues in Argentina for Pikara Magazine. (Spanish)  
- 
-- [Lady Macbeth of Mtsensk floods the Liceu in Barcelona for the Season Opening](https://www.vocidellopera.com/single-post/lady-macbeth-of-mtsensk): Opera critique for Voci dell'Opera. (English)  
+  **[“Hemos pasado de una ola en la que podíamos aspirar a algo mejor a tenernos que enfocar solo en sobrevivir”](https://www.pikaramagazine.com/2024/10/hemos-pasado-de-una-ola-en-la-que-podiamos-aspirar-a-algo-mejor-a-tenernos-que-enfocar-solo-en-sobrevivir/)**  
+  _Examining current gender issues in Argentina for Pikara Magazine._  
+  Language: Spanish
+
+  **[Lady Macbeth of Mtsensk floods the Liceu in Barcelona for the Season Opening](https://www.vocidellopera.com/single-post/lady-macbeth-of-mtsensk)**  
+  _Opera critique for Voci dell'Opera._  
+  Language: English
 
 </details>
 
