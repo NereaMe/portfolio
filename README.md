@@ -1,123 +1,113 @@
-# Nerea Menor's Portfolio
+# Nerea Menor
 
-Welcome to my portfolio! Here you can find my work as a journalist, marketing manager, and data analyst.
+![Your Name](images/me_grey.png)
+
+**Experienced journalist and marketing manager with hands-on experience as a marketing analyst, now turned data analyst.**  
+*Combines journalistic integrity, marketing expertise, and analytical skills to extract actionable insights from complex datasets.*
+
+[Connect with me on LinkedIn](https://www.linkedin.com/in/nerea-menor/)  
+
+---
 
 ## Table of Contents
 
-- [Professional Summary](#professional-summary)
-- [My Projects](#my-projects)
-  - [Data Analysis Projects](#data-analysis-projects)
+- [Writings](#writings)
   - [Journalism](#journalism)
+  - [Copywriting](#copywriting)
   - [Localized & Original Content](#localized--original-content)
+- [My Projects](#my-projects)
 - [CV](#cv)
+  - [Professional Summary](#professional-summary)
+  - [Work Experience](#work-experience)
+  - [Skills & Tools](#skills--tools)
+  - [Education](#education)
 
-## Professional Summary
+---
 
-Experienced journalist and marketing manager with hands-on experience as a marketing analyst, now turned data analyst. Adept at leveraging storytelling and strategic communication to boost engagement and campaign effectiveness. Proven track record in coordinating editorial workflows and managing multifunctional teams for seamless project execution and collaboration.
-
-## My Projects
-
-### Data Analysis Projects
-
-Here are some of the data analysis projects I’ve worked on:
-
-- [Film Streaming - SQL](https://github.com/NereaMe/launchstrategy_SQL)  
-  Assisted in launching an online video service, focusing on data processing and enhancing customer insights.  
-  ![Film Streaming](images/1-filmsql.PNG)
-
-- [Ecommerce - PYTHON](https://github.com/NereaMe/Ecommerce_python/)  
-  Conducted data analysis for Instacart, focusing on customer segmentation to improve marketing strategies.  
-  ![Ecommerce Python](images/2-ecommerce_python.PNG)
-
-- [Happiness Score - PYTHON](https://github.com/NereaMe/HappinessScore_python)  
-  Performed exploratory analysis on happiness indicators using Python and Tableau for policy-making insights.  
-  ![Happiness Score](images/3-happines_score_python.PNG)
-
-- [Health - TABLEAU](https://github.com/NereaMe/health_tableau)  
-  Analyzed influenza trends to help a medical staffing agency plan for peak seasons and staffing needs.  
-  ![Health](images/4-health_tableau.PNG)
+## Writings
 
 ### Journalism
 
-A selection of my journalistic work, specializing in topics like arts, social issues, and culture.
+Here are some of the journalism projects I’ve worked on:
 
-- **Eduardo Chillida: Profound is the air – 100 years of emptiness**  
-  Coverage of contemporary art in *Voci dell'opera* magazine.  
-  ![Eduardo Chillida](images/eduardo_chillida.jpg)
+| Article Title | Publication | Description | Link |
+|---------------|-------------|-------------|------|
+| *Example Article 1* | El Confidencial | In-depth analysis of art, human rights, and cultural topics. | [Read Article](https://link-to-article.com) |
+| *Example Article 2* | Argia | Reported on gender issues in global contexts, including interviews and fieldwork. | [Read Article](https://link-to-article.com) |
 
-- **Niñas veneradas como diosas**  
-  Article discussing social and environmental challenges in *Ethic* magazine.  
-  ![Niñas veneradas como diosas](images/ninas_veneradas.jpg)
+*Additional articles and publications that showcase coverage of social issues, human rights, and art in various international contexts.*
 
-- **Andy Warhol, como nunca lo habías visto**  
-  Coverage of an art exhibition in *El Confidencial's* magazine dedicated to art, design, and architecture.  
-  ![Andy Warhol](images/andy_warhol.jpg)
+---
 
-<details>
-<summary>More Journalism Works</summary>
+### Copywriting
 
-- **The Power of Art in Society**  
-  Exploration of art's impact on social change in *Artistry Today*.  
-  ![The Power of Art](images/power_of_art.jpg)
+Examples of copywriting projects that blend marketing strategy with engaging content:
 
-- **Gender Equality in the Arts**  
-  Article addressing gender issues in the art world, published in *Culture Review*.  
-  ![Gender Equality](images/gender_equality.jpg)
+| Project Name | Description | Link |
+|--------------|-------------|------|
+| *Campaign for Brand X* | Created copy for an e-commerce brand to improve customer engagement and brand awareness. | [View Project](https://link-to-project.com) |
+| *Product Descriptions for Y* | Wrote product descriptions that increased SEO and engagement on-site. | [View Project](https://link-to-project.com) |
 
-</details>
+*Additional examples of SEO-optimized content and strategic messaging across social media and blogs.*
+
+---
 
 ### Localized & Original Content
 
-Writing and content localization, including infographics and PR articles, focused on technology and lifestyle.
+Writing and localization of content, including infographics and PR articles focused on technology and lifestyle.
 
-- **Click to Buy Infographic**  
-  Study on European online shopping habits (2019 edition).  
-  ![Click to Buy](images/click_to_buy.jpg)
+| Project Name | Description | Link |
+|--------------|-------------|------|
+| *Infographic on Online Shopping Trends* | Developed an infographic that visualizes shopping habits in Europe (2019 edition). | [View Infographic](https://link-to-infographic.com) |
+| *120 Years of Olympic Fashion through Serena Williams* | Explored the evolution of tennis fashion through the lens of a famous athlete for *La Vanguardia*. | [View Article](https://link-to-article.com) |
 
-- **120 Years of the Olympics Through Tennis Fashion**  
-  Evolution of tennis fashion through the figure of Serena Williams in *La Vanguardia*.  
-  ![Tennis Fashion](images/tennis_fashion.jpg)
+*Additional examples of localized and original content tailored for diverse audiences.*
 
-- **Learn to Decorate with Wallpaper**  
-  Lifestyle blog post on home decor.  
-  ![Wallpaper](images/wallpaper.jpg)
+---
 
-<details>
-<summary>More Localized & Original Content</summary>
+## My Projects
 
-- **The Powers of Plants**  
-  Pinterest post on indoor plant guide.  
-  ![Powers of Plants](images/powers_of_plants.jpg)
+Here are some of the data analysis projects I’ve worked on:
 
-- **How We Shop Online: Devices and Trends**  
-  Study on European habits regarding online shopping devices.  
-  ![Online Shopping](images/online_shopping.jpg)
+| Project Name | Description | Skills / Tools / Procedures | Visual |
+|--------------|-------------|-----------------------------|--------|
+| [FILM STREAMING - SQL](https://github.com/NereaMe/launchstrategy_SQL) | Assisted in launching an online video service, focusing on data processing and addressing business queries to enhance customer insights and operational efficiency. | Relational databases, SQL, Database querying, Filtering, Cleaning and summarizing, Joining tables, Subqueries, Common table expression | [<img src="images/1-filmsql.PNG" alt="Film Streaming" width="150"/>](https://github.com/NereaMe/launchstrategy_SQL) |
+| [Ecommerce Python](https://github.com/NereaMe/Ecommerce_python/) | Conducted data analysis for Instacart, focusing on customer segmentation and behavior to improve marketing strategies. | Python, Data wrangling, Data merging, Deriving variables, Grouping data, Aggregating data, Reporting in Excel, Population flows | [<img src="images/2-ecommerce_python.PNG" alt="Ecommerce Python" width="150"/>](https://github.com/NereaMe/Ecommerce_python/) |
+| [HAPPINESS SCORE - PYTHON](https://github.com/NereaMe/HappinessScore_python) | Performed exploratory analysis on happiness indicators using Python and Tableau, providing insights for policy-making decisions. | Python, Exploratory analysis (visualizations), Geospatial analysis (shapefile), Regression analysis, Cluster analysis, Time-series analysis, Analysis narrative | [<img src="images/3-happines_score_python.PNG" alt="Happiness Score" width="150"/>](https://github.com/NereaMe/HappinessScore_python) |
+| [HEALTH](https://github.com/NereaMe/health_tableau) | Analyzed influenza trends to help a medical staffing agency plan for peak seasons and staffing needs. | Excel, Translating business requirements, Data cleaning, Data integration, Data transformation, Statistical hypothesis testing, Visual analysis, Forecasting, Storytelling in Tableau, Presenting results | [<img src="images/4-health_tableau.PNG" alt="Health" width="150"/>](https://github.com/NereaMe/health_tableau) |
 
-</details>
+---
 
 ## Feel free to explore my [repositories](https://github.com/NereaMe) to see more of my work.
 
+---
+
 ## CV
+
+### Professional Summary
+Experienced journalist and marketing manager with hands-on experience as a marketing analyst, now turned data analyst. Adept at leveraging storytelling and strategic communication to boost engagement and campaign effectiveness. Combines journalistic integrity, marketing expertise, and analytical skills to extract actionable insights from complex datasets and craft compelling narratives. Proven track record in coordinating editorial workflows and managing multifunctional teams for seamless project execution and collaboration.
 
 ### Work Experience
 
-**Journalist and Author**  
-*Various Locations* | *2011 - 2024*  
-- Covered complex topics such as art, human rights, and gender issues in diverse cultural contexts.
-
-**CRM Manager**  
-*Ladenzeile GmbH* | *Berlin* | *2021 - 2023*  
-- Managed cross-departmental projects to optimize engagement and conversion.
-
-**SEO Manager, PR and Data**  
-*Visual Meta GmbH* | *Berlin* | *2018 - 2021*  
-- Coordinated cross-departmental organic marketing efforts.
+*(Followed by a table or bulleted list with roles and achievements)*
 
 ### Skills & Tools
 
-- **Design:** Figma, Canva, InDesign, HTML
-- **Analytics:** Python, SQL, Excel, Tableau
+- **Design**: Figma, Canva, InDesign, HTML
+- **Team Management**: Editorial/Cross-functional
+- **Analytics**: Python, SQL, Excel, Tableau
+- **Marketing Strategy (UX)**: User Growth and Retention
+- **Copywriting**: Storytelling, Translation
+- **Product Launch/Rebranding**
+- **Author**: Narrative - Poetry (published)
+- **KPIs & Agile Methodology**
 
 ### Education
 
-**Data Analyti
+- Data Analytics Program, 775 UE
+- Journalism and Information Sciences, Master’s
+- Certification in Teaching Spanish Language
+
+---
+
+## Feel free to explore my [repositories](https://github.com/NereaMe) to see more of my work.
