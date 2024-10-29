@@ -54,7 +54,7 @@ Examples of copywriting projects that blend marketing strategy with engaging con
 
 ### Localized & Original Content
 
-Writing and localization of content, including infographics and PR articles focused on technology and lifestyle.
+Writing and localization of content, including infographics and PR articles, focused on technology and lifestyle.
 
 | Project Name | Description | Link |
 |--------------|-------------|------|
