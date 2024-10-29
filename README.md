@@ -72,7 +72,7 @@ Here are some of the data analysis projects I’ve worked on:
 | Project Name | Description | Skills / Tools / Procedures |
 |--------------|-------------|-----------------------------|
 | [FILM STREAMING - SQL](https://github.com/NereaMe/launchstrategy_SQL) | Assisted in launching an online video service, focusing on data processing and addressing business queries to enhance customer insights and operational efficiency. | Relational databases, SQL, Database querying, Filtering, Cleaning and summarizing. |
-| [Ecommerce Python](https://github.com/NereaMe/Ecommerce_python/) | Conducted data analysis for Instacart, focusing on customer segmentation and behavior to improve marketing strategies. | Python, Data wrangling, Data merging, Deriving variables. |
+| [ECOMMERCE - PYTHON](https://github.com/NereaMe/Ecommerce_python/) | Conducted data analysis for Instacart, focusing on customer segmentation and behavior to improve marketing strategies. | Python, Data wrangling, Data merging, Deriving variables. |
 | [HAPPINESS SCORE - PYTHON](https://github.com/NereaMe/HappinessScore_python) | Performed exploratory analysis on happiness indicators using Python and Tableau, providing insights for policy-making decisions. | Python, Exploratory analysis, Geospatial analysis. |
 | [HEALTH - EXCEL](https://github.com/NereaMe/health_tableau) | Analyzed influenza trends to help a medical staffing agency plan for peak seasons and staffing needs. | Excel, Data cleaning, Statistical hypothesis testing. |
 
