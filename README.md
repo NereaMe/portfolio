@@ -2,9 +2,11 @@
 
 <img src="images/me_grey.png" alt="Your Name" width="300" height="300">
 
-**Blending research and analysis with creative freedom, both in work and personality.** 
-**With a passion for storytelling, every piece of content is seen as immensely valuable.** 
-**Thriving on exploring languages and human behavior.**  
+**Blending research and analysis with creative freedom, both in work and personality.
+
+With a passion for storytelling, every piece of content is seen as immensely valuable.
+
+Thriving on exploring languages and human behavior.**  
 *journalism - content creation - data analysis - research*
 
 [Connect with me on LinkedIn](https://www.linkedin.com/in/nerea-menor/)  
