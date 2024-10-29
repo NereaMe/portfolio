@@ -51,7 +51,7 @@
 </head>
 <body>
     <h1>Nerea Menor's Portfolio</h1>
-    <img src="https://your-profile-picture-url-here.jpg" alt="Profile Picture">
+    <img src="images/me_grey.png" alt="Profile Picture">
 
     <h2>Table of Contents</h2>
     <ul>
