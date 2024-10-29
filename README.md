@@ -32,13 +32,10 @@
 | [Andy Warhol, como nunca lo habías visto](https://www-elconfidencial-com.translate.goog/el-grito/2024-08-24/andy-warhol-expo-berlin_3947800/?_x_tr_sl=auto&_x_tr_tl=es&_x_tr_hl=es) | Showcasing Warhol's unique perspective for El Confidencial's art magazine. | Spanish |
 
 <details>
-  
-  <summary>More Journalism Projects</summary>
+<summary>More Journalism Projects</summary>
 
-| Headline | Description | Language |
-|--------------|-------------|----------|
-| [“Hemos pasado de una ola en la que podíamos aspirar a algo mejor a tenernos que enfocar solo en sobrevivir”](https://www.pikaramagazine.com/2024/10/hemos-pasado-de-una-ola-en-la-que-podiamos-aspirar-a-algo-mejor-a-tenernos-que-enfocar-solo-en-sobrevivir/) | Examining current gender issues in Argentina for Pikara Magazine. | Spanish |
-| [Lady Macbeth of Mtsensk floods the Liceu in Barcelona for the Season Opening](https://www.vocidellopera.com/single-post/lady-macbeth-of-mtsensk) | Opera critique for Voci dell'Opera. | English |
+- [“Hemos pasado de una ola en la que podíamos aspirar a algo mejor a tenernos que enfocar solo en sobrevivir”](https://www.pikaramagazine.com/2024/10/hemos-pasado-de-una-ola-en-la-que-podiamos-aspirar-a-algo-mejor-a-tenernos-que-enfocar-solo-en-sobrevivir/): Examining current gender issues in Argentina for Pikara Magazine. (Spanish)
+- [Lady Macbeth of Mtsensk floods the Liceu in Barcelona for the Season Opening](https://www.vocidellopera.com/single-post/lady-macbeth-of-mtsensk): Opera critique for Voci dell'Opera. (English)
 
 </details>
 
@@ -54,10 +51,8 @@ Writing and content localization, including infographics and PR articles, focuse
 <details>
 <summary>More Localized & Original Content</summary>
 
-| Project Name | Description | Language |
-|--------------|-------------|----------|
-| [Los poderes de las plantas](https://de.pinterest.com/pin/461407924319434531/) | Pinterest post on a guide to indoor plants. | Spanish |
-| [Cómo compramos por Internet: dispositivos, sistemas operativos y navegadores más usados](https://marketing4ecommerce.net/compramos-internet-los-europeos-segun-las-tiendas-online-shopalike-2017/) | Study on European online shopping habits by device. | Spanish |
+- [Los poderes de las plantas](https://de.pinterest.com/pin/461407924319434531/): Pinterest post on a guide to indoor plants. (Spanish)
+- [Cómo compramos por Internet: dispositivos, sistemas operativos y navegadores más usados](https://marketing4ecommerce.net/compramos-internet-los-europeos-segun-las-tiendas-online-shopalike-2017/): Study on European online shopping habits by device. (Spanish)
 
 </details>
 
