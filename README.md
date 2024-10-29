@@ -35,7 +35,7 @@
 | **[Andy Warhol, como nunca lo habías visto / Like You've Never Seen Before](https://www-elconfidencial-com.translate.goog/el-grito/2024-08-24/andy-warhol-expo-berlin_3947800/?_x_tr_sl=auto&_x_tr_tl=es&_x_tr_hl=es)** | Showcasing Warhol's unique perspective for El Confidencial's art magazine. | Spanish |
 
 ### Localized & Original Content
-"Writing and content localization, including infographics and PR articles, focused on technology and lifestyle."
+Writing and content localization, including infographics and PR articles, focused on technology and lifestyle.
 
 | Project Name | Description | Language |
 |--------------|-------------|----------|
