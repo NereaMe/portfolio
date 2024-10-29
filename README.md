@@ -14,13 +14,13 @@
 
 ---
 
-## Table of Contents
+## Index
 
 - [Writings](#writings)
   - [Journalism](#journalism)
   - [Localized & Original Content](#localized--original-content)
-- [Data Analysis projects](#my-projects)
-- [UX Research & Writing](#ux-research-portfolio)
+- [Data Analysis projects](#data-analysis-projects)
+- [UX Research & Writing](#ux-research--writing)
 - [CV](#cv)
 
 ---
