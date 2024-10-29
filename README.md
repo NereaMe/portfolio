@@ -55,11 +55,10 @@ Writing and content localization, including infographics and PR articles, focuse
 | [Learn to Decorate with Wallpaper / Aprende a decorar con papel pintado](https://www.homify.es/libros_de_ideas/28615/aprende-a-decorar-con-papel-pintado) | Lifestyle blog post on decoration tips. | Spanish |
 
 #### More Localized & Original Content
-  - **[Los poderes de las plantas](https://de.pinterest.com/pin/461407924319434531/)**  
-    Pinterest post on a guide to indoor plants. 
-
-  - **[Cómo compramos por Internet: dispositivos, sistemas operativos y navegadores más usados](https://marketing4ecommerce.net/compramos-internet-los-europeos-segun-las-tiendas-online-shopalike-2017/)**  
+  - **[How We Shop Online/Cómo compramos por Internet: dispositivos, sistemas operativos y navegadores más usados](https://marketing4ecommerce.net/compramos-internet-los-europeos-segun-las-tiendas-online-shopalike-2017/)**  
     Study on European online shopping habits by device.
+  - **[The Powers of Plants"/Los poderes de las plantas](https://de.pinterest.com/pin/461407924319434531/)**  
+    Pinterest post on a guide to indoor plants. 
 
 
 ---
