@@ -42,6 +42,7 @@
 
 </details>
 
+---
 
 ### Localized & Original Content
 Writing and content localization, including infographics and PR articles, focused on technology and lifestyle.
