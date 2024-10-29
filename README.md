@@ -1,6 +1,6 @@
 # Nerea Menor
 
-<img src="images/me_grey.png" alt="Your Name" width="200" height="200">
+<img src="images/me_grey.png" alt="Your Name" width="300" height="300">
 
 **Blending research and analysis with creative freedom, both in work and personality. With a passion for storytelling, every piece of content is seen as immensely valuable. Thriving on exploring languages and human behavior.**  
 *journalism - content creation - data analysis - research*
@@ -15,7 +15,7 @@
 - [Writings](#writings)
   - [Journalism](#journalism)
   - [Localized & Original Content](#localized--original-content)
-- [My Projects](#my-projects)
+- [Data Analysis projects](#my-projects)
 - [CV](#cv)
 
 ---
@@ -62,7 +62,7 @@ Writing and content localization, including infographics and PR articles, focuse
 
 ---
 
-## My Projects
+## Data Analysis projects
 
 Here are some of the data analysis projects I’ve worked on:
 
