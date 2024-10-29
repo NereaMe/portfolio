@@ -35,13 +35,12 @@
 | [Niñas veneradas como diosas](https://ethic.es/2024/10/kumari-ninas-veneradas-como-diosas/) | Examining social and environmental challenges through gender issues for Ethic. | Spanish |
 | [Andy Warhol, como nunca lo habías visto](https://www-elconfidencial-com.translate.goog/el-grito/2024-08-24/andy-warhol-expo-berlin_3947800/?_x_tr_sl=auto&_x_tr_tl=es&_x_tr_hl=es) | Showcasing Warhol's unique perspective for El Confidencial's art magazine. | Spanish |
 
-<h3>More Journalism Projects</h3>
-<ul>
-  <li><strong><a href="https://www.pikaramagazine.com/2024/10/hemos-pasado-de-una-ola-en-la-que-podiamos-aspirar-a-algo-mejor-a-tenernos-que-enfocar-solo-en-sobrevivir/">“Hemos pasado de una ola en la que podíamos aspirar a algo mejor a tenernos que enfocar solo en sobrevivir”</a></strong><br>
-    Examining current gender issues in Argentina for Pikara Magazine. (Spanish)</li>
-  <li><strong><a href="https://www.vocidellopera.com/single-post/lady-macbeth-of-mtsensk">Lady Macbeth of Mtsensk floods the Liceu in Barcelona for the Season Opening</a></strong><br>
-    Opera critique for Voci dell'Opera. (English)</li>
-</ul>
+#### More Journalism Projects
+  - **[“Hemos pasado de una ola en la que podíamos aspirar a algo mejor a tenernos que enfocar solo en sobrevivir”](https://www.pikaramagazine.com/2024/10/hemos-pasado-de-una-ola-en-la-que-podiamos-aspirar-a-algo-mejor-a-tenernos-que-enfocar-solo-en-sobrevivir/)**  
+    Examining current gender issues in Argentina for Pikara Magazine. *(Spanish)*
+
+  - **[Lady Macbeth of Mtsensk floods the Liceu in Barcelona for the Season Opening](https://www.vocidellopera.com/single-post/lady-macbeth-of-mtsensk)**  
+    Opera critique for Voci dell'Opera. *(English)*
 
 ---
 
