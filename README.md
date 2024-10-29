@@ -1,99 +1,184 @@
-# Nerea Menor
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nerea Menor's Portfolio</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4; /* Light background */
+            color: #333; /* Dark text color */
+            margin: 0;
+            padding: 20px;
+            text-align: center; /* Center-align content */
+        }
+        h1, h2 {
+            color: #ccadb2; /* Pastel color */
+        }
+        a {
+            color: #dc3545; /* Link color */
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline; /* Underline links on hover */
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 10px;
+            text-align: left;
+            background-color: #fff; /* White background for table cells */
+        }
+        th {
+            background-color: #ccadb2; /* Pastel color for table header */
+            color: white; /* White text for table header */
+        }
+        img {
+            border-radius: 50%; /* Make the profile picture circular */
+            width: 150px; /* Set width of the profile picture */
+            height: 150px; /* Set height of the profile picture */
+        }
+        details {
+            margin-top: 10px;
+            text-align: left; /* Align content left */
+        }
+    </style>
+</head>
+<body>
+    <h1>Nerea Menor's Portfolio</h1>
+    <img src="https://your-profile-picture-url-here.jpg" alt="Profile Picture">
+    
+    <h2>Table of Contents</h2>
+    <ul>
+        <li><a href="#journalism">Writings</a></li>
+        <ul>
+            <li><a href="#journalism-section">1. Journalism</a></li>
+            <li><a href="#localized-content-section">2. Localized & Original Content</a></li>
+        </ul>
+        <li><a href="#my-projects">My Projects</a></li>
+    </ul>
 
-![Your Name](images/me_grey.png)
+    <h2 id="journalism-section">Journalism</h2>
+    <p>A selection of my journalistic work, specializing in topics like arts, social issues, and culture.</p>
+    <table>
+        <tr>
+            <th>Project Name</th>
+            <th>Description</th>
+            <th>Language</th>
+            <th>Link</th>
+        </tr>
+        <tr>
+            <td>Eduardo Chillida: Profound is the air</td>
+            <td>Explore the life and works of the renowned artist.</td>
+            <td>English</td>
+            <td><a href="https://www.vocidellopera.com/single-post/eduardo-chillida">View</a></td>
+        </tr>
+        <tr>
+            <td>Niñas veneradas como diosas</td>
+            <td>Examines social and environmental challenges.</td>
+            <td>Spanish</td>
+            <td><a href="https://ethic.es/2024/10/kumari-ninas-veneradas-como-diosas/">View</a></td>
+        </tr>
+        <tr>
+            <td>Andy Warhol, como nunca lo habías visto</td>
+            <td>Exhibition overview of Warhol's work.</td>
+            <td>Spanish</td>
+            <td><a href="https://www-elconfidencial-com.translate.goog/el-grito/2024-08-24/andy-warhol-expo-berlin_3947800/?_x_tr_sl=auto&_x_tr_tl=es&_x_tr_hl=es">View</a></td>
+        </tr>
+    </table>
 
-**Experienced journalist and marketing manager with hands-on experience as a marketing analyst, now turned data analyst.**  
-*Combines journalistic integrity, marketing expertise, and analytical skills to extract actionable insights from complex datasets.*
+    <details>
+        <summary>More Journalism Works</summary>
+        <ul>
+            <li>
+                <strong>Niñas veneradas como diosas</strong><br>
+                Examines social and environmental challenges.<br>
+                <em>Spanish</em><br>
+                <a href="https://ethic.es/2024/10/kumari-ninas-veneradas-como-diosas/">View</a>
+            </li>
+            <li>
+                <strong>Andy Warhol, como nunca lo habías visto</strong><br>
+                Exhibition overview of Warhol's work.<br>
+                <em>Spanish</em><br>
+                <a href="https://www-elconfidencial-com.translate.goog/el-grito/2024-08-24/andy-warhol-expo-berlin_3947800/?_x_tr_sl=auto&_x_tr_tl=es&_x_tr_hl=es">View</a>
+            </li>
+        </ul>
+    </details>
 
-[Connect with me on LinkedIn](https://www.linkedin.com/in/nerea-menor/)  
+    <h2 id="localized-content-section">Localized & Original Content</h2>
+    <p>Writing and content localization, including infographics and PR articles, focused on technology and lifestyle.</p>
+    <table>
+        <tr>
+            <th>Project Name</th>
+            <th>Description</th>
+            <th>Language</th>
+            <th>Link</th>
+        </tr>
+        <tr>
+            <td>Click to Buy / Del clic a la compra</td>
+            <td>Study discovering how Europeans shop online (2019 edition).</td>
+            <td>Spanish</td>
+            <td><a href="https://marketing4ecommerce.net/wp-content/uploads/2017/01/Infografia-del-clic-a-la-compra.jpg">View</a></td>
+        </tr>
+        <tr>
+            <td>120 Years of Olympic Games Through Fashion</td>
+            <td>Fashion evolution through Serena Williams.</td>
+            <td>Spanish</td>
+            <td><a href="https://www.lavanguardia.com/de-moda/moda/20160803/403670325433/juegos-olimpicos-moda-120-anos.html">View</a></td>
+        </tr>
+        <tr>
+            <td>Learn to Decorate with Wallpaper</td>
+            <td>Lifestyle blog post on decoration.</td>
+            <td>Spanish</td>
+            <td><a href="https://www.homify.es/libros_de_ideas/28615/aprende-a-decorar-con-papel-pintado">View</a></td>
+        </tr>
+    </table>
 
----
+    <details>
+        <summary>More Localized & Original Content</summary>
+        <ul>
+            <li>
+                <strong>Los poderes de las plantas</strong><br>
+                Pinterest post on indoor plant guide.<br>
+                <a href="https://de.pinterest.com/pin/461407924319434531/">View</a>
+            </li>
+            <li>
+                <strong>Cómo compramos por Internet</strong><br>
+                Study on European online shopping habits.<br>
+                <a href="https://marketing4ecommerce.net/compramos-internet-los-europeos-segun-las-tiendas-online-shopalike-2017/">View</a>
+            </li>
+        </ul>
+    </details>
 
-## Table of Contents
-
-- [Writings](#writings)
-  - [Journalism](#journalism)
-  - [Copywriting](#copywriting)
-- [My Projects](#my-projects)
-- [CV](#cv)
-  - [Professional Summary](#professional-summary)
-  - [Work Experience](#work-experience)
-  - [Skills & Tools](#skills--tools)
-  - [Education](#education)
-
----
-
-## Writings
-
-### Journalism
-
-Here are some of the journalism projects I’ve worked on:
-
-| Article Title | Publication | Description | Link |
-|---------------|-------------|-------------|------|
-| *Example Article 1* | El Confidencial | In-depth analysis of art, human rights, and cultural topics. | [Read Article](https://link-to-article.com) |
-| *Example Article 2* | Argia | Reported on gender issues in global contexts, including interviews and fieldwork. | [Read Article](https://link-to-article.com) |
-
-*Additional articles and publications that showcase coverage of social issues, human rights, and art in various international contexts.*
-
----
-
-### Copywriting
-
-Examples of copywriting projects that blend marketing strategy with engaging content:
-
-| Project Name | Description | Link |
-|--------------|-------------|------|
-| *Campaign for Brand X* | Created copy for an e-commerce brand to improve customer engagement and brand awareness. | [View Project](https://link-to-project.com) |
-| *Product Descriptions for Y* | Wrote product descriptions that increased SEO and engagement on-site. | [View Project](https://link-to-project.com) |
-
-*Additional examples of SEO-optimized content and strategic messaging across social media and blogs.*
-
----
-
-## My Projects
-
-Here are some of the data analysis projects I’ve worked on:
-
-| Project Name | Description | Skills / Tools / Procedures | Visual |
-|--------------|-------------|-----------------------------|--------|
-| [FILM STREAMING - SQL](https://github.com/NereaMe/launchstrategy_SQL) | Assisted in launching an online video service, focusing on data processing and addressing business queries to enhance customer insights and operational efficiency. | Relational databases, SQL, Database querying, Filtering, Cleaning and summarizing, Joining tables, Subqueries, Common table expression | [<img src="images/1-filmsql.PNG" alt="Film Streaming" width="150"/>](https://github.com/NereaMe/launchstrategy_SQL) |
-| [Ecommerce Python](https://github.com/NereaMe/Ecommerce_python/) | Conducted data analysis for Instacart, focusing on customer segmentation and behavior to improve marketing strategies. | Python, Data wrangling, Data merging, Deriving variables, Grouping data, Aggregating data, Reporting in Excel, Population flows | [<img src="images/2-ecommerce_python.PNG" alt="Ecommerce Python" width="150"/>](https://github.com/NereaMe/Ecommerce_python/) |
-| [HAPPINESS SCORE - PYTHON](https://github.com/NereaMe/HappinessScore_python) | Performed exploratory analysis on happiness indicators using Python and Tableau, providing insights for policy-making decisions. | Python, Exploratory analysis (visualizations), Geospatial analysis (shapefile), Regression analysis, Cluster analysis, Time-series analysis, Analysis narrative | [<img src="images/3-happines_score_python.PNG" alt="Happiness Score" width="150"/>](https://github.com/NereaMe/HappinessScore_python) |
-| [HEALTH](https://github.com/NereaMe/health_tableau) | Analyzed influenza trends to help a medical staffing agency plan for peak seasons and staffing needs. | Excel, Translating business requirements, Data cleaning, Data integration, Data transformation, Statistical hypothesis testing, Visual analysis, Forecasting, Storytelling in Tableau, Presenting results | [<img src="images/4-health_tableau.PNG" alt="Health" width="150"/>](https://github.com/NereaMe/health_tableau) |
-
----
-
-## Feel free to explore my [repositories](https://github.com/NereaMe) to see more of my work.
-
----
-
-## CV
-
-### Professional Summary
-Experienced journalist and marketing manager with hands-on experience as a marketing analyst, now turned data analyst. Adept at leveraging storytelling and strategic communication to boost engagement and campaign effectiveness. Combines journalistic integrity, marketing expertise, and analytical skills to extract actionable insights from complex datasets and craft compelling narratives. Proven track record in coordinating editorial workflows and managing multifunctional teams for seamless project execution and collaboration.
-
-### Work Experience
-
-*(Followed by a table or bulleted list with roles and achievements)*
-
-### Skills & Tools
-
-- **Design**: Figma, Canva, InDesign, HTML
-- **Team Management**: Editorial/Cross-functional
-- **Analytics**: Python, SQL, Excel, Tableau
-- **Marketing Strategy (UX)**: User Growth and Retention
-- **Copywriting**: Storytelling, Translation
-- **Product Launch/Rebranding**
-- **Author**: Narrative - Poetry (published)
-- **KPIs & Agile Methodology**
-
-### Education
-
-- Data Analytics Program, 775 UE
-- Journalism and Information Sciences, Master’s
-- Certification in Teaching Spanish Language
-
----
-
-## Feel free to explore my [repositories](https://github.com/NereaMe) to see more of my work.
+    <h2 id="my-projects">My Projects</h2>
+    <p>Here are some of the projects I’ve worked on:</p>
+    <table>
+        <tr>
+            <th>Project Name</th>
+            <th>Description</th>
+            <th>Skills / Tools / Procedures</th>
+            <th>Visual</th>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/NereaMe/launchstrategy_SQL">FILM STREAMING - SQL</a></td>
+            <td>Launch of a new online video service.</td>
+            <td>Relational databases, SQL, data querying.</td>
+            <td><a href="https://github.com/NereaMe/launchstrategy_SQL"><img src="images/1-filmsql.PNG" alt="Film Streaming" width="150"/></a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/NereaMe/Ecommerce_python/">Ecommerce Python</a></td>
+            <td>Marketing strategy for an online grocery store.</td>
+            <td>Python, data wrangling, exploratory analysis.</td>
+            <td><a href="https://github.com/NereaMe/Ecommerce_python/"><img src="images/2-ecommerce_python.PNG" alt="Ecommerce Python" width="150"/></a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/NereaMe/HappinessScore_python">HAPPINESS SCORE - PYTHON</a></td>
+            <td>Exploratory visual analysis in Python.</td>
+            <td>Geospatial analysis, regression analysis.</td>
+            <td><a href="https://github.com/NereaMe/HappinessScore_python"><img src="images/3-happiness_score_python.PNG" alt="Happiness Score" width="150"/></a></td>
+        </tr>
