@@ -1,6 +1,6 @@
 # Nerea Menor
 
-![Your Name](images/me_grey.png =200x200)
+<img src="images/me_grey.png" alt="Your Name" width="200" height="200">
 
 **Blending research and analysis with creative freedom, both in work and personality. With a passion for storytelling, every piece of content is seen as immensely valuable. Thriving on exploring languages and human behavior.**  
 *journalism - content creation - data analysis - research*
