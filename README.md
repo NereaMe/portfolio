@@ -13,7 +13,6 @@
 
 - [Writings](#writings)
   - [Journalism](#journalism)
-  - [Copywriting](#copywriting)
   - [Localized & Original Content](#localized--original-content)
 - [My Projects](#my-projects)
 - [CV](#cv)
@@ -36,19 +35,6 @@ Here are some of the journalism projects I’ve worked on:
 | *Example Article 2* | Argia | Reported on gender issues in global contexts, including interviews and fieldwork. | [Read Article](https://link-to-article.com) |
 
 *Additional articles and publications that showcase coverage of social issues, human rights, and art in various international contexts.*
-
----
-
-### Copywriting
-
-Examples of copywriting projects that blend marketing strategy with engaging content:
-
-| Project Name | Description | Link |
-|--------------|-------------|------|
-| *Campaign for Brand X* | Created copy for an e-commerce brand to improve customer engagement and brand awareness. | [View Project](https://link-to-project.com) |
-| *Product Descriptions for Y* | Wrote product descriptions that increased SEO and engagement on-site. | [View Project](https://link-to-project.com) |
-
-*Additional examples of SEO-optimized content and strategic messaging across social media and blogs.*
 
 ---
 
