@@ -3,9 +3,7 @@
 <img src="images/me_grey.png" alt="Your Name" width="300" height="300">
 
 **Blending research and analysis with creative freedom, both in work and personality.**
-
 **With a passion for storytelling, every piece of content is seen as immensely valuable.**
-
 **Thriving on exploring languages and human behavior.**  
 
 
