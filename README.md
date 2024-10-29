@@ -78,7 +78,7 @@ Here are some of the data analysis projects I’ve worked on:
 
 ## UX Research & Writing
 
-*A showcase of my UX portfolio featuring design case studies and projects centered on enhancing user experience.*
+*Explore my UX portfolio with design case studies focused on user experience.*
 
 | Project Name | Description |
 |--------------|-------------|
