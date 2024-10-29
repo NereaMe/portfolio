@@ -25,20 +25,20 @@
 ### Journalism
 *A selection of my journalistic work, specializing in arts, social issues, and culture.*
 
-| Project Name | Description | Language |
+| Headline | Description | Language |
 |--------------|-------------|----------|
 | [Eduardo Chillida: Profound is the Air – 100 Years of Emptiness](https://www.vocidellopera.com/single-post/eduardo-chillida) | Exploring the contemporary artist's legacy for Voci dell'Opera. | English |
 | [Niñas veneradas como diosas](https://ethic.es/2024/10/kumari-ninas-veneradas-como-diosas/) | Examining social and environmental challenges through gender issues for Ethic. | Spanish |
 | [Andy Warhol, como nunca lo habías visto](https://www-elconfidencial-com.translate.goog/el-grito/2024-08-24/andy-warhol-expo-berlin_3947800/?_x_tr_sl=auto&_x_tr_tl=es&_x_tr_hl=es) | Showcasing Warhol's unique perspective for El Confidencial's art magazine. | Spanish |
 
 <details>
-<details>
-<summary>More Journalism Projects</summary>
+  
+  <summary>More Journalism Projects</summary>
 
-| Project Name | Description | Language | Link |
-|--------------|-------------|----------|------|
-| **“Hemos pasado de una ola en la que podíamos aspirar a algo mejor a tenernos que enfocar solo en sobrevivir”** | Examining current gender issues in Argentina for Pikara Magazine. | Spanish | [Read Article](https://www.pikaramagazine.com/2024/10/hemos-pasado-de-una-ola-en-la-que-podiamos-aspirar-a-algo-mejor-a-tenernos-que-enfocar-solo-en-sobrevivir/) |
-| **"Lady Macbeth of Mtsensk" floods the Liceu in Barcelona for the Season Opening** | Opera critique for Voci dell'Opera. | English | [Read Article](https://www.vocidellopera.com/single-post/lady-macbeth-of-mtsensk) |
+| Headline | Description | Language |
+|--------------|-------------|----------|
+| [“Hemos pasado de una ola en la que podíamos aspirar a algo mejor a tenernos que enfocar solo en sobrevivir”](https://www.pikaramagazine.com/2024/10/hemos-pasado-de-una-ola-en-la-que-podiamos-aspirar-a-algo-mejor-a-tenernos-que-enfocar-solo-en-sobrevivir/) | Examining current gender issues in Argentina for Pikara Magazine. | Spanish |
+| [Lady Macbeth of Mtsensk floods the Liceu in Barcelona for the Season Opening](https://www.vocidellopera.com/single-post/lady-macbeth-of-mtsensk) | Opera critique for Voci dell'Opera. | English |
 
 </details>
 
