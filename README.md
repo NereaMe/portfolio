@@ -37,12 +37,12 @@
 | [Andy Warhol, como nunca lo habías visto/Like You've Never Seen Before](https://www-elconfidencial-com.translate.goog/el-grito/2024-08-24/andy-warhol-expo-berlin_3947800/?_x_tr_sl=auto&_x_tr_tl=es&_x_tr_hl=es) | Showcasing Warhol's unique perspective for El Confidencial's art magazine. | Spanish |
 
 #### More Journalism Projects
-  - **[Lady Macbeth of Mtsensk floods the Liceu in Barcelona for the Season Opening](https://www.vocidellopera.com/single-post/lady-macbeth-of-mtsensk)**  
-    Opera critique
-  - **[“Hemos pasado de una ola en la que podíamos aspirar a algo mejor a tenernos que enfocar solo en sobrevivir”](https://www.pikaramagazine.com/2024/10/hemos-pasado-de-una-ola-en-la-que-podiamos-aspirar-a-algo-mejor-a-tenernos-que-enfocar-solo-en-sobrevivir/)**  
-    Examining current gender issues in Argentina for Pikara Magazine.
-    - **[Critical Art as a Means of Emancipation at Villa Schöningen](https://www.vocidellopera.com/single-post/villa-schoeningen)**  
-Art critics
+- **[Lady Macbeth of Mtsensk floods the Liceu in Barcelona for the Season Opening](https://www.vocidellopera.com/single-post/lady-macbeth-of-mtsensk)**  
+  Opera critique
+- **[“Hemos pasado de una ola en la que podíamos aspirar a algo mejor a tenernos que enfocar solo en sobrevivir”](https://www.pikaramagazine.com/2024/10/hemos-pasado-de-una-ola-en-la-que-podiamos-aspirar-a-algo-mejor-a-tenernos-que-enfocar-solo-en-sobrevivir/)**  
+  Examining current gender issues in Argentina for Pikara Magazine.
+- **[Critical Art as a Means of Emancipation at Villa Schöningen](https://www.vocidellopera.com/single-post/villa-schoeningen)**  
+  Art critics
 
 
 ---
