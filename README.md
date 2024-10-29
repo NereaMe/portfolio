@@ -59,7 +59,7 @@ Writing and content localization, including infographics and PR articles, focuse
 #### More Localized & Original Content
   - **[How We Shop Online/Cómo compramos por Internet: dispositivos, sistemas operativos y navegadores más usados](https://marketing4ecommerce.net/compramos-internet-los-europeos-segun-las-tiendas-online-shopalike-2017/)**  
     Study on European online shopping habits by device.
-  - **[The Powers of Plants"/Los poderes de las plantas](https://de.pinterest.com/pin/461407924319434531/)**  
+  - **[The Powers of Plants/Los poderes de las plantas](https://de.pinterest.com/pin/461407924319434531/)**  
     Pinterest post on a guide to indoor plants. 
 
 
